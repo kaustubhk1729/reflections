@@ -4,4 +4,8 @@ Transform the current directory into a Git repository. This adds a .git subdirec
 
 How is the staging area different from the working directory and the repository? What value do you think it offers?
 
-Staging area is intermediate between the working directory on our computer and tje commited git repository
+Staging area is intermediate between the working directory on our computer and the commited git repository
+
+How can you use the staging area to make sure you have one commit per logical change?
+
+Commit master only after all changes are done till then only git add.
